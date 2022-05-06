@@ -8,7 +8,7 @@
 
 代码位于code，其中
 
-iv_calculate.ipynb 实现隐含波动率率计算
+50ETF_iv_calculator.ipynb 实现隐含波动率率计算 # 更新于2022/5/6 ，删除冗余代码，便于理解
 
 iv_surface.ipynb 实现三维绘图
 
